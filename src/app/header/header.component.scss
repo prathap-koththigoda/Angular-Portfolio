@@ -1,0 +1,20 @@
+.custom-background {
+    position: fixed;
+    width: 100%;
+    background-color: transparent;
+    transition: background-color 0.9 ease;
+}
+
+.solid-background {
+    background-color: #08040c;
+    opacity: 0.9;
+}
+
+.navbar-brand {
+    color: rgb(211, 211, 211) !important;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: lightgray !important;
+}
